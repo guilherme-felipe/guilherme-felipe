@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 <!--
-**guilherme-felipe/guilherme-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**guilherme-felipe/guilherme-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 
 Here are some ideas to get you started:
 
